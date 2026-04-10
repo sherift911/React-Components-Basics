@@ -7,7 +7,7 @@ This is a simple React project built to practice the basics of components.
 
 ## 📸 Preview
 
-![React-Components-Basics](image/site.png)
+![React-Components-Basics](images/site.png)
 
 ## 🚀 Features
 
